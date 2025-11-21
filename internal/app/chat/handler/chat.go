@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"https://github.com/FhmiSddq/ProyekJarkom/internal/infra/env"
+	"github.com/FhmiSddq/ProyekJarkom/internal/infra/env"
 )
 
 type ChatHandlerItf interface {
