@@ -4,9 +4,9 @@ package bootstrap
 import (
 	"log"
 
-	"https://github.com/FhmiSddq/ProyekJarkom/internal/app/chat/handler"
-	"https://github.com/FhmiSddq/ProyekJarkom/internal/app/chat/interface/tcp"
-	"https://github.com/FhmiSddq/ProyekJarkom/internal/infra/env"
+	"github.com/FhmiSddq/ProyekJarkom/internal/app/chat/handler"
+	"github.com/FhmiSddq/ProyekJarkom/internal/app/chat/interface/tcp"
+	"github.com/FhmiSddq/ProyekJarkom/internal/infra/env"
 )
 
 func Start() {
