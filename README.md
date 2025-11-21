@@ -7,7 +7,8 @@ Peer-to-peer chat written in Go
 ### Clone this repository
 
 ```bash
-https://github.com/SyafaHadyan/hanashi.git
+https://github.com/FhmiSddq/ProyekJarkom.git
+
 ```
 
 #### (Optional) Configure the app
@@ -56,3 +57,4 @@ To disconnect, run
 2025/11/19 06:38:58 read tcp 10.0.0.2:53916->100.84.161.27:6660: use of closed network connection
 2025/11/19 06:38:58 stopped handling connection: 10.0.0.2:6660
 ```
+
